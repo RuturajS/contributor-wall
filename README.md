@@ -1,6 +1,6 @@
 # 🏆 The Contributor Wall
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Contributor%20Wall&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Join%20the%20community%20by%20making%20your%20first%20contribution!&descAlignY=55&descAlign=50)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Contributor%20Wall&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Join%20the%20community%20by%20making%20your%20first%20contribution%21&descAlignY=55&descAlign=50)
 
 <div align="center">
 

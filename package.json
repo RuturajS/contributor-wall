@@ -1,0 +1,14 @@
+{
+  "name": "contributor-wall",
+  "version": "1.0.0",
+  "description": "A contributor wall to track contributions",
+  "main": "scripts/generate-leaderboard.js",
+  "scripts": {
+    "update-leaderboard": "node scripts/generate-leaderboard.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
